@@ -1,0 +1,19 @@
+#janela-bot {
+    overflow: auto;
+    width: 25%;
+    float: right;
+    border: 1px black solid;
+}
+
+#bot {
+    width: 100%;
+    height: 100%;
+    margin-right: -100px;
+    padding-left: 0%;
+}
+
+#span {
+    background: lightblue;
+    width: 100%;
+    text-align: center;
+}
